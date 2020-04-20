@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "battaglia-navale-274721",
+  "private_key_id": "e85b38e0bd58678f0174099d6cc9ee18c3fbf265",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfdgORvbmbZfQR\n25tTs4c12rNiY1GlhI+PsNPsprouxfN6He6FhGRc9pPxhLF/sgDlEhJ0nRlkwYXv\nccd6+Osp89Km4bQDEB4qU4vbQTTiVO2JsT7RCsiWFOdg+k9G2qPuxDuQFEIuGWwI\nn+u2cUdVzuFg9kzN++QXIWDtDXnfC2pjj5aMwBSSYtmRa1rut4zjIRSnhDuzZx0x\nNyPOJ1CE4tH/dO4pgW81KhZgUPdW/Zt13pk7BpxSRkYI5gXh16B73nggVN1kRLNp\n8MJlhI8ZrMgWSiKby6jBA0KYI0uHiQLRuic0GE1ZzwhNeL8/SQQlyFCE/9rJcO8Z\npE7W1V3NAgMBAAECggEAIK/+JNC9vLVuTf/UrBiD2b4KYhuGZ9XP4O5oTt1Rkpd4\n5NpAZAXC1gykwJBJG2pHhS2Kc3WluDH0bORHtjVS7X9h+dwP/MW/zUDhjTElcFTk\n+YIIJK1fd2ZzFL3S5O0aSC5ZIFyKwWzsKKtxk+1OKHCXYjsy/NGLDNPGjOljh106\nMw+Cdibeq82LizgDBimiXIfC6DPJ3VC4njmh8lmJkF7yNUE+SYGrcz/lnEo3YEvq\nx1wugQ7yx1vqicAKorvpvtex8giBG5RKM7KcDhsa1nxyCSXzAva9VUkB+RVLioec\n5nMBNGVgPaba8PVJrlHcNk6Ogn0rQdqYBz5qqER2+QKBgQDfRPw94biPV77d1Rk4\nqkgvl1aGGnwlPJW9jylqGCNi7UP3j2M6vxmit93etUSt2qKtk4F6KLn6zBf15psb\nSOHM2A2peoJre04gSeS14vPV9Eal2smcbzcZp95upeOTo8z6lNkaj9+o8Iib4Y6i\niMe/h7DW35N4TL8R87v8w9wMFQKBgQC21mD41WJQpWkjJIfxVps/2gy9HUex1CCp\nQFJBmRk4RNF3+j+MWLe/g5WTR6zqHbuhjkpaoWeB6Nak5n+2bByQDvoXQCpMhV/5\n8hLndOxQ3JTacVqcD7S+R6NhxGLV8toxrGP5UOmjn+kyNugQ1tAv2Sx7n1J21CUB\nfstQmTqg2QKBgEkIyfJ8KeFJ9LegA7YTjbVzrewEMeQEY380m3mHF9w+fOM4Vl9b\nL8mYl81IQoUUZe6dt9b8B4pQxO29V7OfLa3SZvWvi4YZOb86LMSKzvSICawrW5P+\nlWmhDhPn0//xrxWxJyuXMLSUqjtDl2L3l0/B1UkUrarGgCIhNrdCYnLZAoGAFrQk\nMoH8xVrk5VJB9zvz50fiURFzt6dJrvqnvDGQqiYRhL50aa8Skht61WEPHbs3c2ZB\n4WMtgToyfSOKNFLUcScK8xwqpHnjYxwmMMuaFKhva3ir8bkZjo9CwH8sbrjLU2O+\nvlTHzmOrB2s+AelKzMZA+dDc4piRR9BA2u9MEnECgYAsLehVaSeyASBx3vPG5LXi\n4QZgrq/QjNtMcsnG9XHP6LAm4FFjieFKUL5SZJxS4m/qDIa+nAVwPfAIDZlit7tm\n0B6Aat6YYdn7IrAALiGd2xR1cn1nO/ojFNHI8yHy60BRlDfcVgBdHVfszP9A23SU\n3TbhRxYpT8+i5mh8PozUOA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sacco-919@battaglia-navale-274721.iam.gserviceaccount.com",
+  "client_id": "108061935295160064644",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sacco-919%40battaglia-navale-274721.iam.gserviceaccount.com"
+}
